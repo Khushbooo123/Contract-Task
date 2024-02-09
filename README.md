@@ -16,4 +16,4 @@ Email Management: Utilized for efficient communication and coordination througho
 # Additional Details:
 
 The project's emphasis on meticulous annotation led to a more organized and easily navigable contract repository.
-Overall, the Contract Task project stands as a testament to the successful implementation of process optimization, resulting in tangible improvements for Vedantu Innovations Pvt. Ltd.
+Overall, the Contract Task project stands as a testament to the successful implementation of process optimization, resulting in tangible improvements.
